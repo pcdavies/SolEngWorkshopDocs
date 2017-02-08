@@ -5,7 +5,6 @@ https://pcdavies.github.io/SolEngWorkshopDocs/CloudNativeMicroservices/index.htm
 **To View Interactive Workhops Overview:**  
 http://launch.oracle.com/?cloudnative
 
-
 # DevOps: Cloud Native Microservices Workshops
 
 **Reference the following Lab Guides by opening their Documentation Files:**
